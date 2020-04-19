@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-App/static/css/main.bc7c8601.chunk.css",
+    "main.js": "/E-Commerce-App/static/js/main.10fb6f71.chunk.js",
+    "main.js.map": "/E-Commerce-App/static/js/main.10fb6f71.chunk.js.map",
+    "runtime-main.js": "/E-Commerce-App/static/js/runtime-main.699a9462.js",
+    "runtime-main.js.map": "/E-Commerce-App/static/js/runtime-main.699a9462.js.map",
+    "static/js/2.504bc97c.chunk.js": "/E-Commerce-App/static/js/2.504bc97c.chunk.js",
+    "static/js/2.504bc97c.chunk.js.map": "/E-Commerce-App/static/js/2.504bc97c.chunk.js.map",
+    "index.html": "/E-Commerce-App/index.html",
+    "precache-manifest.adfe83d358e2cbe87de159a85aa26b09.js": "/E-Commerce-App/precache-manifest.adfe83d358e2cbe87de159a85aa26b09.js",
+    "service-worker.js": "/E-Commerce-App/service-worker.js",
+    "static/css/main.bc7c8601.chunk.css.map": "/E-Commerce-App/static/css/main.bc7c8601.chunk.css.map",
+    "static/js/2.504bc97c.chunk.js.LICENSE.txt": "/E-Commerce-App/static/js/2.504bc97c.chunk.js.LICENSE.txt",
+    "static/media/alexander-rotker-l8p1aWZqHvE-unsplash.jpg": "/E-Commerce-App/static/media/alexander-rotker-l8p1aWZqHvE-unsplash.ffd5616f.jpg",
+    "static/media/chuttersnap-4JHMt29fvj8-unsplash.jpg": "/E-Commerce-App/static/media/chuttersnap-4JHMt29fvj8-unsplash.e30c4950.jpg",
+    "static/media/clint-bustrillos-EpmJBf-kQRE-unsplash.jpg": "/E-Commerce-App/static/media/clint-bustrillos-EpmJBf-kQRE-unsplash.df1e5688.jpg",
+    "static/media/fachry-zella-devandra-bNSdIkCBJOs-unsplash.jpg": "/E-Commerce-App/static/media/fachry-zella-devandra-bNSdIkCBJOs-unsplash.4736fcb5.jpg",
+    "static/media/imani-clovis-LxVxPA1LOVM-unsplash.jpg": "/E-Commerce-App/static/media/imani-clovis-LxVxPA1LOVM-unsplash.0fe8ceb2.jpg",
+    "static/media/jeremy-alford-EfLwt5Xz5Ek-unsplash.jpg": "/E-Commerce-App/static/media/jeremy-alford-EfLwt5Xz5Ek-unsplash.abdfac38.jpg",
+    "static/media/linda-xu-fUEP0djb1hA-unsplash.jpg": "/E-Commerce-App/static/media/linda-xu-fUEP0djb1hA-unsplash.0afede25.jpg",
+    "static/media/maksim-larin-NOpsC3nWTzY-unsplash.jpg": "/E-Commerce-App/static/media/maksim-larin-NOpsC3nWTzY-unsplash.673459af.jpg",
+    "static/media/maksim-larin-ezdrvzA1hZw-unsplash.jpg": "/E-Commerce-App/static/media/maksim-larin-ezdrvzA1hZw-unsplash.0ca7a856.jpg",
+    "static/media/malvestida-magazine-DMl5gG0yWWY-unsplash.jpg": "/E-Commerce-App/static/media/malvestida-magazine-DMl5gG0yWWY-unsplash.6b8aa5ea.jpg",
+    "static/media/mitchel-lensink-1BI-ar91C7U-unsplash.jpg": "/E-Commerce-App/static/media/mitchel-lensink-1BI-ar91C7U-unsplash.8496e079.jpg",
+    "static/media/nike-swoosh-logo-nike-logo-material-png-clip-art-thumbnail (1).png": "/E-Commerce-App/static/media/nike-swoosh-logo-nike-logo-material-png-clip-art-thumbnail (1).b6ce78db.png",
+    "static/media/plqml-felipe-pelaquim-6zO5VKogoZE-unsplash.jpg": "/E-Commerce-App/static/media/plqml-felipe-pelaquim-6zO5VKogoZE-unsplash.3f859948.jpg",
+    "static/media/regis-hari-bouchard-ZjViL8qxihM-unsplash.png": "/E-Commerce-App/static/media/regis-hari-bouchard-ZjViL8qxihM-unsplash.cad57b02.png",
+    "static/media/thomas-serer-Jq3IXFoEeUU-unsplash.jpg": "/E-Commerce-App/static/media/thomas-serer-Jq3IXFoEeUU-unsplash.6e4bd05e.jpg",
+    "static/media/zachary-keimig-wT_vIwtVnjk-unsplash.jpg": "/E-Commerce-App/static/media/zachary-keimig-wT_vIwtVnjk-unsplash.c3862351.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699a9462.js",
+    "static/js/2.504bc97c.chunk.js",
+    "static/css/main.bc7c8601.chunk.css",
+    "static/js/main.10fb6f71.chunk.js"
+  ]
+}
